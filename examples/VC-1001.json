@@ -1,0 +1,51 @@
+{
+  "company": "Northstar AI",
+  "sector": "Enterprise AI",
+  "stage": "Seed",
+  "round": "$3.5M seed round",
+  "geography": "United States",
+  "product": {
+    "offering": "AI workflow platform for regulated mid-market operations teams",
+    "differentiation": "Human-gated multi-agent workflows with audit trails",
+    "defensibility": "Workflow data, domain integrations, evaluation harnesses, and customer-specific operational knowledge",
+    "technical_risks": ["Model reliability across heterogeneous workflows", "Integration complexity"]
+  },
+  "team": {
+    "founders": ["CEO: enterprise operations background", "CTO: applied AI engineering background"],
+    "strengths": ["Relevant domain experience", "Technical product capability"],
+    "gaps": ["Enterprise sales leadership not yet hired"]
+  },
+  "traction": {
+    "revenue": "$420k ARR supplied by company",
+    "growth": "18% average monthly ARR growth over the last six months supplied by company",
+    "customers": "11 paying customers supplied by company",
+    "retention": "Insufficient cohort history",
+    "other_signals": ["Three paid pilots reported", "Two channel discussions reported"]
+  },
+  "business_model": {
+    "pricing": "Annual SaaS contracts plus implementation",
+    "gtm": "Founder-led direct sales",
+    "gross_margin": "78% company-reported software gross margin",
+    "unit_economics": "CAC payback not yet independently validated"
+  },
+  "market": {
+    "target_customer": "Regulated mid-market operations teams",
+    "problem": "Manual, fragmented workflows with limited auditability",
+    "market_size": "Company estimate requires independent validation",
+    "growth_drivers": ["Enterprise AI adoption", "Pressure to automate knowledge work", "Demand for AI governance and auditability"],
+    "competitors": ["Horizontal agent platforms", "Workflow automation vendors", "Internal engineering teams"]
+  },
+  "known_risks": [
+    "Short operating history",
+    "Founder-led sales concentration",
+    "Market-size claim not independently validated"
+  ],
+  "diligence_questions": [
+    "Provide customer-level ARR and renewal evidence.",
+    "Provide six-month product usage cohorts.",
+    "Reconcile gross-margin calculation with infrastructure and model costs.",
+    "Provide reference calls for the three largest customers."
+  ],
+  "evidence": ["Founder deck", "Company KPI export", "Product demo notes"],
+  "preliminary_recommendation": "Continue diligence; do not make an investment decision until customer, retention, market, and unit-economic claims are independently validated."
+}
